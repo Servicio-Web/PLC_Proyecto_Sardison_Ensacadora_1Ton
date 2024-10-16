@@ -1,0 +1,31 @@
+<<<<<<<<<<<<LISTO>>>>>>>>>>>>>>>>
+#### validar que este en modo automatico y que no se pueda cambiar a manual o barrido
+#### antes de iniciar el ciclo, validar que sea cero ó mayor que 5kg
+#### Agregar otra salida para la compuerta 
+#### paro de emergencia activo
+#### indicador de estado de 1
+#### falla al abrir la compuerta
+#### falla al cerrar compuerta
+#### falla en el tiempo del vibrador
+#### falla de comunicacion con la bascula
+#### falla de comuncionacion con el variador del motor
+#### falla sobrecarga de motor ----- entrada I0:3
+#### falla de sobrecarga de la bascula ----- overload
+#### falla subcarga bascula ------ underload
+#### Normalizado y escalado de la sumatoria de las celdas
+
+<<<<<<<<<<<<PENDIENTE>>>>>>>>>>>>>>>>
+indicador del estatus de la calibracion
+falla al arrancar el variador de motor ----- 
+Falta la calibracion desde el programa
+
+
+
+"""" FISICO """"
+<<<<<<<<<<<<LISTO>>>>>>>>>>>>>>>>
+#### Falta recortar el cable de comunicacion del indicador
+#### conectar la comunicaicon del variador   
+#### METER 0V EN LA 1M	
+
+<<<<<<<<<<<<PENDIENTE>>>>>>>>>>>>>>>>
+Dar de alta el modulo
